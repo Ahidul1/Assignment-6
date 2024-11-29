@@ -28,4 +28,4 @@
 ---
 
 ## 🚀 Live Link
-Explore the project here: [**Peddy Adoption Live**](https://ph-assignment-6-peddy-adaption.netlify.app/) 🔗
+Explore the project here: [**Peddy Adoption Live**]() 🔗
